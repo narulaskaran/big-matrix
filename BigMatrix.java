@@ -3,7 +3,7 @@
  * 12th Grade - 2017
  *
  * Modeling and performance of operations of large matrices
- * using HashMaps implmented in Java to conserve memory. 
+ * using HashMaps implemented in Java to conserve memory. 
  */
 
 import java.util.ArrayList;
@@ -271,7 +271,7 @@ public class BigMatrix {
     }
 
     public static void main(String[] args) {
-
+        //Little tests to make sure things work
         BigMatrix b = new BigMatrix();
         b.setValue(100, 50, 3);
         b.setValue(50, 100, 5);
