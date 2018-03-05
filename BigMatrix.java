@@ -1,9 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* 
+ * Karan Narula
+ * 12th Grade - 2017
+ *
+ * Modeling and performance of operations of large matrices
+ * using HashMaps implmented in Java to conserve memory. 
  */
-
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -11,10 +12,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author karan
- */
 public class BigMatrix {
 
     private HashMap rows;
